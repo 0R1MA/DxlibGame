@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\student\Desktop\DxLib_VC3_24d\DxLib2Dgame\Project\Project1\main.cpp(7,5): warning C4551: 関数呼び出しに引数リストがありません。
+C:\Users\student\Desktop\DxLib_VC3_24d\DxLib2Dgame\Project\Project1\main.cpp(26,29): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+  Project1.vcxproj -> C:\Users\student\Desktop\DxLib_VC3_24d\DxLib2Dgame\Project\Project1\x64\Debug\Project1.exe

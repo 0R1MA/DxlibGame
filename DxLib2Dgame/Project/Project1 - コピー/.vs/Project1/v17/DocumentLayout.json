@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DxLib_VC3_24d\\DxLib2Dgame\\Project\\Project1 - \u30B3\u30D4\u30FC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{948D459C-39B4-40A8-BFDC-FD390472FCAF}|Project1.vcxproj|D:\\DxLib_VC3_24d\\DxLib2Dgame\\Project\\Project1 - \u30B3\u30D4\u30FC\\StartDisplay.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{948D459C-39B4-40A8-BFDC-FD390472FCAF}|Project1.vcxproj|solutionrelative:StartDisplay.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{948D459C-39B4-40A8-BFDC-FD390472FCAF}|Project1.vcxproj|D:\\DxLib_VC3_24d\\DxLib2Dgame\\Project\\Project1 - \u30B3\u30D4\u30FC\\20240509_timigGame_.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{948D459C-39B4-40A8-BFDC-FD390472FCAF}|Project1.vcxproj|solutionrelative:20240509_timigGame_.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{948D459C-39B4-40A8-BFDC-FD390472FCAF}|Project1.vcxproj|D:\\DxLib_VC3_24d\\DxLib2Dgame\\Project\\Project1 - \u30B3\u30D4\u30FC\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{948D459C-39B4-40A8-BFDC-FD390472FCAF}|Project1.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StartDisplay.cpp",
+              "DocumentMoniker": "D:\\DxLib_VC3_24d\\DxLib2Dgame\\Project\\Project1 - \u30B3\u30D4\u30FC\\StartDisplay.cpp",
+              "RelativeDocumentMoniker": "StartDisplay.cpp",
+              "ToolTip": "D:\\DxLib_VC3_24d\\DxLib2Dgame\\Project\\Project1 - \u30B3\u30D4\u30FC\\StartDisplay.cpp",
+              "RelativeToolTip": "StartDisplay.cpp",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAADQAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-20T09:35:08.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20240509_timigGame_.cpp",
+              "DocumentMoniker": "D:\\DxLib_VC3_24d\\DxLib2Dgame\\Project\\Project1 - \u30B3\u30D4\u30FC\\20240509_timigGame_.cpp",
+              "RelativeDocumentMoniker": "20240509_timigGame_.cpp",
+              "ToolTip": "D:\\DxLib_VC3_24d\\DxLib2Dgame\\Project\\Project1 - \u30B3\u30D4\u30FC\\20240509_timigGame_.cpp",
+              "RelativeToolTip": "20240509_timigGame_.cpp",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAAIsAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-13T07:58:04.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\DxLib_VC3_24d\\DxLib2Dgame\\Project\\Project1 - \u30B3\u30D4\u30FC\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "D:\\DxLib_VC3_24d\\DxLib2Dgame\\Project\\Project1 - \u30B3\u30D4\u30FC\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACIAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-15T08:25:56.058Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
